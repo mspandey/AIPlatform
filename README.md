@@ -2,15 +2,15 @@
 
 ### Build software that Thinks.
 
-AIPlatform is a premium, high-performance landing page representing the next generation of developer infrastructure. It showcases a modern, immersive web experience built to demonstrate how developers can integrate neural capabilities into their codebase with just three lines of code.
+AIPlatform is a premium, high-performance landing page representing the next generation of developer infrastructure. It showcases a modern, immersive web experience built to demonstrate how developers can integrate advanced capabilities into their codebase with just three lines of code.
 
 ---
 
 ## 🌟 Key Features
 
-### 1. Cinematic Scroll-Scrub Sequence 
-* **Interactive Storytelling:** A canvas-based interactive neural network that dynamically responds to the user's scroll.
-* **The Blooming Effect:** The animation begins with scattered, out-of-focus glowing nodes in deep space. As the user scrolls, the nodes multiply, connections draw themselves, and the structure sharpens into a coherent, organic neural network.
+### 1. Cinematic Hexagonal Sequence
+* **Interactive Storytelling:** A canvas-based interactive geometric hexagon that dynamically responds to the user's scroll.
+* **The Blooming Effect:** As the user scrolls, multiple geometric layers align, radial glows intensify, and counter-rotating hexagonal structures sharpen into focus, creating a highly technical, precision-engineered visual experience.
 * **Performance Focused:** Built using native HTML5 Canvas API and customized requestAnimationFrame hooks, achieving 60fps animations with optimized CPU/GPU utilization.
 * **Reduced Motion Support:** Respects system-level accessibility settings, falling back to a clean static version if `prefers-reduced-motion` is active.
 
