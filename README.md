@@ -8,7 +8,7 @@ AIPlatform is a premium, high-performance landing page representing the next gen
 
 ## 🌟 Key Features
 
-### 1. Cinematic Scroll-Scrub Sequence (`NeuralNetworkCanvas`)
+### 1. Cinematic Scroll-Scrub Sequence 
 * **Interactive Storytelling:** A canvas-based interactive neural network that dynamically responds to the user's scroll.
 * **The Blooming Effect:** The animation begins with scattered, out-of-focus glowing nodes in deep space. As the user scrolls, the nodes multiply, connections draw themselves, and the structure sharpens into a coherent, organic neural network.
 * **Performance Focused:** Built using native HTML5 Canvas API and customized requestAnimationFrame hooks, achieving 60fps animations with optimized CPU/GPU utilization.
