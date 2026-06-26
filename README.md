@@ -6,6 +6,15 @@ AIPlatform is a premium, high-performance landing page representing the next gen
 
 ---
 
+## 🔗 Live Links
+
+| | Link |
+|---|---|
+| 🌐 **Live Demo** | [ai-platform.vercel.app](https://ai-platform-979rx0c9y-junkooktaehyung06-6753s-projects.vercel.app/) |
+| 🎬 **Video Walkthrough** | [Watch on Google Drive](https://drive.google.com/file/d/1gVpLWlAKnax9WmOBFbTMhilq9yeym8oZ/view?usp=sharing) |
+
+---
+
 ## 🌟 Key Features
 
 ### 1. Cinematic Hexagonal Sequence
