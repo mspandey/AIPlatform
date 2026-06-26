@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-forsythia: #FFC801;
+    --color-nocturnal: #114C5A;
+    --color-arctic: #F1F6F4;
+    --color-mystic: #D9E8E2;
+    --color-saffron: #FF9932;
+    --color-oceanic: #172B36;
+  }
+}
+
+body {
+  background-color: var(--color-arctic);
+  color: var(--color-oceanic);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Ensure smooth transitions on all interactable elements */
+button, select, article, a {
+  transition: all 0.2s ease-out;
+}
+
+/* Specific component optimizations */
+.bento-card {
+  will-change: transform, filter;
+}
+
+.pricing-card {
+  contain: layout style;
+}
